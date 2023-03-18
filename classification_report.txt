@@ -1,0 +1,23 @@
+                  precision    recall  f1-score   support
+
+       aloe_vera       0.98      0.98      0.98        50
+         astilbe       0.79      0.68      0.73       184
+      bellflower       0.60      0.69      0.64       218
+black_eyed_susan       0.90      0.88      0.89       250
+       calendula       0.62      0.63      0.63       244
+california_poppy       0.85      0.73      0.79       255
+       carnation       0.77      0.61      0.68       231
+    common_daisy       0.85      0.69      0.77       245
+       coreopsis       0.60      0.88      0.71       262
+        daffodil       0.85      0.82      0.84       243
+       dandelion       0.88      0.89      0.89       263
+            iris       0.84      0.86      0.85       264
+        magnolia       0.79      0.74      0.76       262
+            rose       0.78      0.92      0.85       250
+       sunflower       0.99      0.71      0.83       257
+           tulip       0.82      0.97      0.89       262
+      water_lily       0.84      0.87      0.85       246
+
+        accuracy                           0.79      3986
+       macro avg       0.81      0.80      0.80      3986
+    weighted avg       0.80      0.79      0.79      3986
